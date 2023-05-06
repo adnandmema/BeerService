@@ -4,6 +4,8 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <AssemblyName>BeerService.Domain</AssemblyName>
+    <RootNamespace>BeerService.Domain</RootNamespace>
   </PropertyGroup>
 
 </Project>
