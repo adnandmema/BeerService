@@ -1,0 +1,1 @@
+I have used Clean Architecture to build this project. I have worked with this architecture on 2 projects and I really like it. It has a good separation of concerns, easy to add new features and it's very flexible for changes.
